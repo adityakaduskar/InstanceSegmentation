@@ -1,5 +1,5 @@
 # InstanceSegmentation
-Instance Segmentation using Mask R-CNN
+Instance Segmentation using Mask R-CNN. Currently code only detects instances of class 'Person'.
 ## Requirements
 ```
 wget --quiet http://sceneparsing.csail.mit.edu/data/ChallengeData2017/images.tar
